@@ -1,6 +1,4 @@
-# Introduction
-
-## Civic Hackathon's Organizer Guide
+# Civic Hackathon's Organizer Guide
 
 Welcome to this guide for organizing your very own civic-centric hackathon! This guide is a community initiative put together by [Civic Hackathons](https://civichackathons.com/) and it contains all of the lessons learned from those who have run successful civic hackathons. It also contains free resources and documents that you can use in your own.
 
